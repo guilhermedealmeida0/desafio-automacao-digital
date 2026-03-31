@@ -22,3 +22,5 @@ O sistema recebe dados de peças e realiza a validação automática com base em
 ```bash
 python desafio_automacao.py
 ```
+
+# desafio-automacao-digital
